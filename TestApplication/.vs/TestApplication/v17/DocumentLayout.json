@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Vishnu\\TestApplication\u0027s\\TestApplicationAPI\\TestApplicationAPI\\TestApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{032AC684-9D86-47B9-B418-87F89E589EA9}|..\\TestApplication.DAL\\TestApplication.DAL.csproj|c:\\vishnu\\testapplication\u0027s\\testapplicationapi\\testapplicationapi\\testapplication.dal\\dbcontext\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DA4341-E362-46DB-A181-B81D4382C28B}|TestApplication.API.csproj|c:\\vishnu\\testapplication\u0027s\\testapplicationapi\\testapplicationapi\\testapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DA4341-E362-46DB-A181-B81D4382C28B}|TestApplication.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DA4341-E362-46DB-A181-B81D4382C28B}|TestApplication.API.csproj|c:\\vishnu\\testapplication\u0027s\\testapplicationapi\\testapplicationapi\\testapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3DA4341-E362-46DB-A181-B81D4382C28B}|TestApplication.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Vishnu\\TestApplication\u0027s\\TestApplicationAPI\\TestApplicationAPI\\TestApplication.DAL\\Migrations\\20250728054951_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250728054951_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Vishnu\\TestApplication\u0027s\\TestApplicationAPI\\TestApplicationAPI\\TestApplication.DAL\\Migrations\\20250728054951_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\TestApplication.DAL\\Migrations\\20250728054951_InitialCreate.cs",
+              "ToolTip": "C:\\Vishnu\\TestApplication\u0027s\\TestApplicationAPI\\TestApplicationAPI\\TestApplication.DAL\\Migrations\\20250728054951_InitialCreate.cs",
+              "RelativeToolTip": "..\\TestApplication.DAL\\Migrations\\20250728054951_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:49:51.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Vishnu\\TestApplication\u0027s\\TestApplicationAPI\\TestApplicationAPI\\TestApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Vishnu\\TestApplication\u0027s\\TestApplicationAPI\\TestApplicationAPI\\TestApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:46:42.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Vishnu\\TestApplication\u0027s\\TestApplicationAPI\\TestApplicationAPI\\TestApplication.DAL\\DBContext\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "..\\TestApplication.DAL\\DBContext\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Vishnu\\TestApplication\u0027s\\TestApplicationAPI\\TestApplicationAPI\\TestApplication.DAL\\DBContext\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "..\\TestApplication.DAL\\DBContext\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:46:00.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Vishnu\\TestApplication\u0027s\\TestApplicationAPI\\TestApplicationAPI\\TestApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Vishnu\\TestApplication\u0027s\\TestApplicationAPI\\TestApplicationAPI\\TestApplication\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T05:44:32.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

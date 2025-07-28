@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TestApplication.API.props" />
+</Project>
