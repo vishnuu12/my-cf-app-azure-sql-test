@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNet.Identity;
+using Microsoft.AspNetCore.Mvc;
+using TestApplication.API.LogicalAppIntegration;
 using TestApplication.BLL.Interface;
 using TestApplication.Models.Models;
 
@@ -24,6 +26,10 @@ namespace TestApplication.API.Controllers
 
                 if (result == "Email is already registered.")
                     return BadRequest(new { response = result });
+
+                SendEmailViaLogic triggerEmail = new SendEmailViaLogic();
+
+                await triggerEmail.SendEmailViaLogicApp(dto);
 
                 return Ok(new { response = result });
             }
